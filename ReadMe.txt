@@ -3,4 +3,3 @@
 -	Install panTilt package (curl -sS https://get.pimoroni.com/pantilthat | bash)
       o	Package info: http://docs.pimoroni.com/pantilthat/#pan
 -	Change the low and high RGB values for other color items. 
--	I need to fix the hunting issue
